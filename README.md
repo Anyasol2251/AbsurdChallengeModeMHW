@@ -72,18 +72,43 @@ Hope you don't have too much muscle memory on your favorite weapon!
 - Greatsword
   - True Charged Slash removed.
 - Sword and Shield
+  - Claw uppercut removed.
+  - Perfect Rush 1 removed.
 - Dual Blades
+  - Demon mode step dodges removed.
+  - Slinger Burst dodges removed.
 - Longsword
+  - Foresight slash removed.
+  - Helmsplitter finisher removed.
+  - Iai Sheathe removed.
 - Hammer
+  - Big Bang Finisher removed.
+  - Level 1 charged jump attack removed.
+  - Spinning jump attack removed.
+  - Power Charge removed.
 - Hunting Horn
+  - Echo spin attack motion value halved.
 - Lance
+  - Nothing. No changes. Capcom did the work for me with all the chip damage in Iceborne.
 - Gunlance
+  - Wvyernstake removed.
+  - Wyrmstake Blast removed.
 - Switch Axe
+  - Clutch claw zero sum discharge removed.
 - Charge Blade
+  - Savage Axe removed.
 - Insect Glaive
+  - Strong Wide Slash motion value reduced.
+  - Tornado Slash motion value reduced.
 - Bow
+  - Defense modifier reduced to zero.
+  - Charging sidestep iframes increased to about the same as SnS backhops.
 - Heavy Bowgun
+  - Defense modifier reduced to zero.
 - Light Bowgun
+  - Defense modifier reduced to zero.
+
+Additionally, most slinger burst motion values have been reduced to zero. No SnS slinger machinegunning allowed!
 </details>
 
 
