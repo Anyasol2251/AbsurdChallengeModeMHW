@@ -70,7 +70,7 @@ The level of inconvenience *generally* corresponds to how powerful the attack wo
 Hope you don't have too much muscle memory on your favorite weapon!
 
 - Greatsword
-  - True Charged Slash removed.
+  - True Charge Slash removed.
 - Sword and Shield
   - Claw uppercut removed.
   - Perfect Rush 1 removed.
@@ -109,6 +109,102 @@ Hope you don't have too much muscle memory on your favorite weapon!
   - Defense modifier reduced to zero.
 
 Additionally, most slinger burst motion values have been reduced to zero. No SnS slinger machinegunning allowed!
+
+- - - -
+
+<h3>Monsters</h3>
+
+Putting this in order of assignments, then Iceborne title updates, then everything else.
+
+Note: "Actions" refer to the monster doing anything, not just attacks.
+
+- Great Jagras
+- Kulu-Ya-Ku
+- Pukei-Pukei
+- Barroth
+- Jyuratodus
+- Tobi-Kadachi
+- Anjanath
+  - Charge speed increased.
+  - Gets wide when enraged.
+- Zorah Magdaros
+- Paolumu
+- Radobaan
+  - Speed increased.
+  - Wider.
+- Legiana
+  - Idle animation sped up significantly.
+  - Roars now hold the player in place for much longer.
+- Odogaron
+  - Size and speed change every three actions.
+  - Speed is inverse to size.
+- Rathalos
+- Diablos
+- Pink Rathian
+- Nergigante
+- Kushala Daora
+- Teostra
+- Vaal Hazak
+- Xeno'jiiva
+
+- Beotodus
+- Banbaro
+- Viper Tobi-Kadachi
+- Nightshade Paolumu
+  - Gets slightly smaller with each action, until a limit.
+- Coral Pukei-Pukei
+- Barioth
+- Nargacuga
+- Glavenus
+- Tigrex
+- Brachydios
+  - Randomly speeds up or slows down on every action.
+- Shrieking Legiana
+- Fulgar Anjanath
+  - Achieves lightning mode much faster.
+  - Requires multiple topples to be forced out of lightning mode.
+  - Head hitzone slightly nerfed.
+- Acidic Glavenus
+- Ebony Odogaron
+  - Size and speed change every action.
+  - Speed is inverse to size.
+- Velkhana
+- Seething Bazelgeuse
+- Blackveil Vaal Hazak
+- Namielle
+- Ruiner Nergigante
+- Shara Ishvalda
+
+- Rajang
+- Stygian Zinogre
+  - Turns inside out every other action.
+- Safi'jiiva
+  - Flattened sideways.
+- Raging Brachydios
+- Furious Rajang
+- Alatreon
+- Fatalis
+
+- TziTzi-Ya-Ku
+- Great Girros
+  - Flattened.
+- Black Diablos
+- Dodogama
+  - Gets slightly bigger with each action, until a limit
+- Uragaan
+- Lavasioth
+- Bazelgeuse
+- Kirin
+- Deviljho
+- Savage Deviljho
+- Lunastra
+- Zinogre
+  - Turned inside out.
+- Yian Garuga
+- Scarred Yian Garuga
+- Silver Rathalos
+- Golden Rathian
+- Brute Tigrex
 </details>
 
 
