@@ -46,6 +46,58 @@ Decoration drop rates have been... changed. For the worse. You'll understand wha
 - All you need to know is that you can no longer rely on decorations for good skills, so focus on making armor!
 
 ### Clutch claw effectiveness ###
-- Clutch claw stagger (also known as "clagger") is turned off in this mod.
+- Clutch claw stagger (also known as "clagger") is disabled.
 
-- Additionally, the duration of the tenderizing effect has been reverted to its release Iceborne value, 90 seconds. Please enjoy.
+- Attempting to "wallbang" a monster will now simply throw you off.
+
+- The duration of the tenderizing effect has been reverted to its release Iceborne value, 90 seconds. Please enjoy.
+
+### Knockback ###
+- All small and medium knockbacks (the player getting hit) are now replaced with large knockbacks.
+
+This change may actually save you once in a while, but it should be a nuisance much more often. Please enjoy.
+- - - -
+
+# Full Changelist #
+<details>
+<summary>SPOILER</summary>
+<h3>Weapons</h3>
+
+No weapon attacks have been "removed" per se, rather they're replaced with something inconvenient to discourage their use.
+
+The level of inconvenience *generally* corresponds to how powerful the attack would have been had I not replaced it.
+
+Hope you don't have too much muscle memory on your favorite weapon!
+
+- Greatsword
+  - True Charged Slash removed.
+- Sword and Shield
+- Dual Blades
+- Longsword
+- Hammer
+- Hunting Horn
+- Lance
+- Gunlance
+- Switch Axe
+- Charge Blade
+- Insect Glaive
+- Bow
+- Heavy Bowgun
+- Light Bowgun
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
