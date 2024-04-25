@@ -57,6 +57,8 @@ Decoration drop rates have been... changed. For the worse. You'll understand wha
 
 This change may actually save you once in a while, but it should be a nuisance much more often. Please enjoy.
 
+Note: This will not impact hyperarmor, you will still be able to hyperarmor through weaker attacks.
+
 - - - -
 
 # Credits #
@@ -139,11 +141,15 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
   - Added the Arch Tempered slam attack to its normal moveset
   - Enraged damage increased
   - Health significantly increased
+  - Grows slightly wider with every action, until a limit
+    - Once that limit is hit, grows slightly thinner with every action, until approximately normal width
+      - Repeats until death
 - Kulu-Ya-Ku
   - Speed increased when enraged
   - Stun increased on several attacks
   - Enraged damage increased
   - Health increased
+  - Has a small chance of doubling in size on any action
 - Pukei-Pukei
   - Most poison attacks sped up
   - Enraged damage increased
@@ -219,11 +225,12 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
 
 - Beotodus
   - Certain attacks sped up
-  - Slightly longer
+  - Wider
 - Banbaro
   - Charge attacks sped up
 - Viper Tobi-Kadachi
-  - Poison attacks sped up
+  - Poison attacks sped up significantly
+  - Slightly wider
 - Nightshade Paolumu
   - Gets slightly smaller with each action, until a limit
 - Coral Pukei-Pukei
@@ -259,9 +266,9 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
   - Added new combos
 - Seething Bazelgeuse
   - Speed decreased while unenraged
-  - Speed decreased more while enraged
+  - Speed decreased even more while enraged
   - Size increased significantly
-  - Enraged damage increased significantly
+  - Enraged damage increased very significantly
 - Blackveil Vaal Hazak
   - Gets slightly wider with each action, until a limit
   - Gets slightly faster with each action, until a limit
@@ -304,11 +311,11 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
 
 Note: Since none of these monsters are required, less effort was put into them.
 - TziTzi-Ya-Ku
-  - Walking sped up significantly
+  - Walking speed increased significantly
   - Flash attack sped up very significantly
   - Certain MR attacks swapped out with other attacks
 - Great Girros
-  - Flattened
+  - Flattened vertically
 - Black Diablos
   - Size increased
 - Dodogama
@@ -340,7 +347,7 @@ Note: Since none of these monsters are required, less effort was put into them.
 - Golden Rathian
   - Wider
 - Brute Tigrex
-  - Speed decreased
+  - Speed decreased slightly
   - Size increased
 </details>
 
