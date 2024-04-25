@@ -132,92 +132,211 @@ Putting this in order of assignments, then Iceborne title updates, then everythi
 Note: "Actions" refer to the monster doing anything, not just attacks.
 
 - Great Jagras
+  - Added the Arch Tempered slam attack to its normal moveset
+  - Enraged damage increased
+  - Health significantly increased
 - Kulu-Ya-Ku
+  - Speed increased when enraged
+  - Stun increased on several attacks
+  - Enraged damage increased
+  - Health increased
 - Pukei-Pukei
+  - Most poison attacks sped up
+  - Enraged damage increased
+  - Health increased
+  - Longer
 - Barroth
+  - Most charge & head attacks sped up
+  - Enraged damage increased
+  - Health slightly increased
 - Jyuratodus
+  - Certain attacks sped up
+  - Enraged damage increased
+  - Health slightly increased
+  - Thinner
+  - Longer
 - Tobi-Kadachi
+  - Certain attacks sped up
+  - Enraged damage increased
+  - Health slightly increased
 - Anjanath
-  - Charge speed increased.
-  - Gets wide when enraged.
+  - Charge attack sped up
+  - Gets wide when enraged
+  - Enraged damage increased
+  - Health slightly increased
 - Zorah Magdaros
+  - Random messages will pop up every 1-2 minutes
 - Paolumu
+  - Certain attacks sped up
+  - Enraged damage increased
+  - Health slightly increased
 - Radobaan
-  - Speed increased.
-  - Wider.
+  - Speed increased
+  - Enraged damage increased
+  - Health slightly increased
+  - Wider
 - Legiana
-  - Idle animation sped up significantly.
-  - Roars now hold the player in place for much longer.
+  - Idle animation sped up significantly
+  - Roars now hold the player in place for much longer
 - Odogaron
-  - Size and speed change every three actions.
-  - Speed is inverse to size.
+  - Size and speed change every three actions
+  - Speed is inverse to size
 - Rathalos
+  - Fireball attacks sped up
+  - Homing claw attack sped up
 - Diablos
+  - Charge attack sped up
+  - Now consistently charges after a roar
+    - The post-roar charge attack is slowed down
+    - If hit by the roar, the player will be held in place until the charge finishes
 - Pink Rathian
+  - Fireball attacks sped up
+  - Tail-flip attacks significantly sped up
 - Nergigante
+  - Several attack windups slowed down
+  - Several post-windup attacks sped up
+  - Certain non-windup attacks sped up
+  - Added the Arch Tempered slam attack to its normal moveset
+  - Added new combos
 - Kushala Daora
+  - Speed increased
+  - Enrage speed decreased significantly (i.e. damage required to enrage)
+  - Enrage duration decreased significantly
+  - Now has a chance of repeating certain actions
 - Teostra
+  - Certain attacks sped up significantly
 - Vaal Hazak
+  - Gets slightly faster with each action, until a limit
+  - Slightly longer
 - Xeno'jiiva
+  - Certain attacks sped up
+  - Certain attacks significantly sped up
+  - Certain attacks sometimes swapped for more dangerous attacks
 
 - Beotodus
+  - Certain attacks sped up
+  - Slightly longer
 - Banbaro
+  - Charge attacks sped up
 - Viper Tobi-Kadachi
+  - Poison attacks sped up
 - Nightshade Paolumu
-  - Gets slightly smaller with each action, until a limit.
+  - Gets slightly smaller with each action, until a limit
 - Coral Pukei-Pukei
+  - Water attacks sped up
 - Barioth
+  - Certain attacks sped up significantly
 - Nargacuga
+  - Speed increased while enraged
+  - Added new combos
 - Glavenus
+  - Speed increased while enraged
+  - Added new combos
 - Tigrex
+  - Speed decreased while unenraged
+  - Speed increased while enraged
+  - Added new combos
 - Brachydios
-  - Randomly speeds up or slows down on every action.
+  - Randomly speeds up or slows down on every action
 - Shrieking Legiana
 - Fulgar Anjanath
   - Achieves lightning mode much faster.
-  - Requires multiple topples to be forced out of lightning mode.
+  - Requires multiple topples to be forced out of lightning mode
   - Head hitzone slightly nerfed.
 - Acidic Glavenus
+  - Certain attacks sped up
+  - Certain actions swapped for other actions
 - Ebony Odogaron
-  - Size and speed change every action.
-  - Speed is inverse to size.
+  - Size and speed change every action
+  - Speed is inverse to size
 - Velkhana
+  - Certain attacks swapped with Arch Tempered versions
+  - Achieves maximum aura upon enrage
+  - Added new combos
 - Seething Bazelgeuse
+  - Speed decreased while unenraged
+  - Speed decreased more while enraged
+  - Size increased significantly
+  - Enraged damage increased significantly
 - Blackveil Vaal Hazak
+  - Gets slightly wider with each action, until a limit
+  - Gets slightly faster with each action, until a limit
+  - Certain sound effects changed
 - Namielle
+  - Certain attacks sped up significantly
 - Ruiner Nergigante
+  - Same as Nergigante
+  - New combos
 - Shara Ishvalda
+  - Certain phase 2 attacks sped up
+  - Can now do certain phase 2 attacks in phase 1
+
+- - - -
 
 - Rajang
+  - Added several new combos
 - Stygian Zinogre
-  - Turns inside out every other action.
+  - Turns inside out every other action
 - Safi'jiiva
-  - Flattened sideways.
+  - Flattened sideways
 - Raging Brachydios
+  - Same as Brachydios
 - Furious Rajang
+  - Size increased
+  - Speed increased
+- Frostfang Barioth
+  - Certain attacks sped up significantly
+  - Slightly longer
 - Alatreon
+  - Added teammates
 - Fatalis
+  - Certain phase 3 attacks added to phase 1 and 2
+  - Certain attacks sped up significantly
+  - Certain attacks sometimes swapped for more dangerous attacks
+  - Turns inside out when doing a certain attack
 
+- - - -
+
+Note: Since none of these monsters are required, less effort was put into them.
 - TziTzi-Ya-Ku
+  - Walking sped up significantly
+  - Flash attack sped up very significantly
+  - Certain MR attacks swapped out with other attacks
 - Great Girros
-  - Flattened.
+  - Flattened
 - Black Diablos
+  - Size increased
 - Dodogama
   - Gets slightly bigger with each action, until a limit
 - Uragaan
+  - Size increased
 - Lavasioth
+  - Same as Jyuratodus
 - Bazelgeuse
+  - Size increased significantly
 - Kirin
+  - Gets randomly squashed with each action
 - Deviljho
+  - Size increased
 - Savage Deviljho
+  - Size increased
 - Lunastra
+  - Size increased
+  - Speed increased
 - Zinogre
-  - Turned inside out.
+  - Turned inside out
 - Yian Garuga
+  - Charge speed increased
+  - Size increased
 - Scarred Yian Garuga
+  - Same as Yian Garuga
 - Silver Rathalos
+  - Longer
 - Golden Rathian
+  - Wider
 - Brute Tigrex
+  - Speed decreased
+  - Size increased
 </details>
 
 
