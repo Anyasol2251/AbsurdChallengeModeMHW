@@ -56,8 +56,21 @@ Decoration drop rates have been... changed. For the worse. You'll understand wha
 - All small and medium knockbacks (the player getting hit) are now replaced with large knockbacks.
 
 This change may actually save you once in a while, but it should be a nuisance much more often. Please enjoy.
+
 - - - -
 
+# Credits #
+Big thanks to Fexty for [SharpPluginLoader](https://fexty12573.github.io/SharpPluginLoader/). Highly recommend SPL, it makes modding very easy.
+
+Synthlight and all contributors to [MHW-Editor](https://github.com/Synthlight/MHW-Editor/wiki/).
+
+JodoZT for [MHWNoChunk](https://github.com/JodoZT/MHWNoChunk).
+
+SDShepard for his [Hard and Wacky](https://www.youtube.com/watch?v=OH4XSLModqQ) playthrough of MHW, which partially inspired this.
+
+albinodonkey for creating the dynamic sizing "wiggly" plugin, used for the above playthrough, which heavily inspired this.
+
+- - - -
 # Full Changelist #
 <details>
 <summary>SPOILER</summary>
