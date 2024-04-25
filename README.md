@@ -131,6 +131,10 @@ Putting this in order of assignments, then Iceborne title updates, then everythi
 
 Note: "Actions" refer to the monster doing anything, not just attacks.
 
+- Small Monsters
+  - Nearly all are sped up
+  - Gajalaka and Boaboa size increased
+
 - Great Jagras
   - Added the Arch Tempered slam attack to its normal moveset
   - Enraged damage increased
@@ -274,6 +278,7 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
 - - - -
 
 - Rajang
+  - Size increased
   - Added several new combos
 - Stygian Zinogre
   - Turns inside out every other action
