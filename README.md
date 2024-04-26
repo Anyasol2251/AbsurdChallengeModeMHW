@@ -47,9 +47,9 @@ Perhaps the core of this mod: Almost *every* required monster has changes **uniq
 and in many cases the speed of *certain attacks* is changed, so watch out!
 
 ### Decoration Drop Rates ###
-Decoration drop rates have been... changed. For the worse. You'll understand what I mean when you get there.
+- Decoration drop rates have been... changed. For the worse. You'll understand what I mean when you get there.
 
-- All you need to know is that you can no longer rely on decorations for good skills, so focus on making armor!
+All you need to know is that you can no longer rely on decorations for good skills, so focus on making armor!
 
 ### Clutch claw effectiveness ###
 - Clutch claw stagger (also known as "clagger") is disabled.
