@@ -239,6 +239,7 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
   - Poison attacks sped up significantly
   - Slightly wider
 - Nightshade Paolumu
+  - Size increased
   - Gets slightly smaller with each action, until a limit
 - Coral Pukei-Pukei
   - Water attacks sped up
