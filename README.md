@@ -22,7 +22,7 @@ Otherwise, uninstallation will involve deleting the individual folders/files add
 
 I also *highly* recommend [Cutscene Skip](https://www.nexusmods.com/monsterhunterworld/mods/5540), as this mod is designed for a new playthrough.
 However, at present it seems like there may be conflicts between that plugin and SPL so if you run into crashes when attempting to skip cutscenes, you'll just have to make do without cutscene skip.
-Very unfortunate I know, but currently there's nothing that can be done.
+Very unfortunate, but currently there's nothing that can be done.
 
 - - - -
 
@@ -76,7 +76,7 @@ JodoZT for [MHWNoChunk](https://github.com/JodoZT/MHWNoChunk).
 
 SDShepard for his [Hard and Wacky](https://www.youtube.com/watch?v=OH4XSLModqQ) playthrough of MHW, which partially inspired this.
 
-albinodonkey for creating the dynamic sizing "wiggly" plugin, used for the above playthrough, which heavily inspired this.
+albinodonkey for making the dynamic sizing "wiggly" plugin, used for the above playthrough, which also inspired this.
 
 - - - -
 # Full Changelist #
