@@ -140,8 +140,9 @@ Putting this in order of assignments, then Iceborne title updates, then everythi
 Note: "Actions" refer to the monster doing anything, not just attacks.
 
 - Small Monsters
-  - Nearly all are sped up
+  - Speed increased for everything except Barnos/Mernos/Cortos
   - Gajalaka and Boaboa size increased
+  - Aggressive Mosswine
 
 - Great Jagras
   - Added the Arch Tempered slam attack to its normal moveset
