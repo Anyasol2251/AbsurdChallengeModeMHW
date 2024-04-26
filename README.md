@@ -16,7 +16,13 @@ This mod requires [Stracker's Loader](https://www.nexusmods.com/monsterhunterwor
 As with most MHW mods, installation is very simple: Just download the latest release and copy the nativePC folder onto *your* nativePC
 folder in your MHW game directory. If ACMPlugin.dll is in nativePC/plugins/CSharp, then you did it correctly!
 
+If you already have mods, then I would recommend you rename your existing nativePC folder to something else (e.g. nativePC-NormalMods) and create a new nativePC folder for this.
+It'll make the uninstallation process much easier, as you'll just have to rename/delete the new nativePC folder and rename your previous folder back to nativePC.
+Otherwise, uninstallation will involve deleting the individual folders/files added by the mod. You can consult the folder structure on this github page for reference on what you need to delete.
+
 I also *highly* recommend [Cutscene Skip](https://www.nexusmods.com/monsterhunterworld/mods/5540), as this mod is designed for a new playthrough.
+However, at present it seems like there may be conflicts between that plugin and SPL so if you run into crashes when attempting to skip cutscenes, you'll just have to make do without cutscene skip.
+Very unfortunate I know, but currently there's nothing that can be done.
 
 - - - -
 
