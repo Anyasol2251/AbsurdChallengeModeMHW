@@ -322,6 +322,8 @@ Note: Since none of these monsters are required, less effort was put into them.
   - Certain MR attacks swapped out with other attacks
 - Great Girros
   - Flattened vertically
+- Rathian
+  - Same as Pink Rathian
 - Black Diablos
   - Size increased
 - Dodogama
@@ -330,6 +332,8 @@ Note: Since none of these monsters are required, less effort was put into them.
   - Size increased
 - Lavasioth
   - Same as Jyuratodus
+- Azure Rathalos
+  - Same as Rathalos
 - Bazelgeuse
   - Size increased significantly
 - Kirin
