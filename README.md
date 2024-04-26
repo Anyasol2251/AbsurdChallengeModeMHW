@@ -4,7 +4,7 @@ Absurd Challenge Mode is a simple overhaul mod for Monster Hunter World intended
 There already exists a [hard mode mod](https://www.nexusmods.com/monsterhunterworld/mods/4828) for MHW, but I wanted there to be something more
 detailed than only simple damage and speed increases. Thus Absurd Challenge Mode was born! 
 
-*Note: This mod is **not** intended to be used online, or for existing playthroughs. It intended for a **new** playthrough, start to finish.*
+*Note: This mod is **not** intended to be used online, or for existing playthroughs. It intended for a **new** playthrough.*
 
 - - - -
 
