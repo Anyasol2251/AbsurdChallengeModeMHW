@@ -11,7 +11,7 @@ detailed than only simple damage and speed increases. Thus Absurd Challenge Mode
 # Requirements and Installation #
 
 This mod requires [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Sharp Plugin Loader](https://fexty12573.github.io/SharpPluginLoader/Install/Installation.html).
-
+Install those first.
 
 As with most MHW mods, installation is very simple: Just download the latest release and copy the nativePC folder onto *your* nativePC
 folder in your MHW game directory. If ACMPlugin.dll is in nativePC/plugins/CSharp, then you did it correctly!
