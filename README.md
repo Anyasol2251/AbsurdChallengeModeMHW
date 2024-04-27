@@ -10,7 +10,7 @@ detailed than only simple damage and speed increases. Thus Absurd Challenge Mode
 
 # Requirements and Installation #
 
-This mod requires [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [Sharp Plugin Loader](https://fexty12573.github.io/SharpPluginLoader/Install/Installation.html).
+This mod requires [Stracker's Loader](https://www.nexusmods.com/monsterhunterworld/mods/1982) and [SharpPluginLoader](https://fexty12573.github.io/SharpPluginLoader/Install/Installation.html).
 Install those first.
 
 As with most MHW mods, installation is very simple: Just download the latest release and unzip everything directly into your nativePC
@@ -21,7 +21,7 @@ It'll make the uninstallation process much easier, as you'll just have to rename
 Otherwise, uninstallation will involve deleting the individual folders/files added by the mod. You can consult the folder structure on this github page for reference on what you need to delete.
 
 I also *highly* recommend [Cutscene Skip](https://www.nexusmods.com/monsterhunterworld/mods/5540), as this mod is designed for a new playthrough.
-However, at present it seems like there may be conflicts between that plugin and Sharp Plugin Loader, so you may run into crashes when attempting to skip cutscenes. If that happens, try switching your game to be fullscreen & native resolution (your monitor's resolution), that consistently got rid of crashes for me. Otherwise you'll just have to make do without it, my apologies.
+However, at present it seems like there may be conflicts between that plugin and SharpPluginLoader, so you may run into crashes when attempting to skip cutscenes. If that happens, try switching your game to be fullscreen & native resolution (your monitor's resolution), that consistently got rid of crashes for me. Otherwise you'll just have to make do without it, my apologies.
 
 - - - -
 
