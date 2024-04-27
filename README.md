@@ -250,12 +250,14 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
 - Barioth
   - Certain attacks sped up significantly
 - Nargacuga
+  - Enraged damage increased
   - Speed increased while enraged
   - Added new combos
 - Glavenus
   - Speed increased while enraged
   - Added new combos
 - Tigrex
+  - Enraged damage increased
   - Speed decreased while unenraged
   - Speed increased while enraged
   - Added new combos
