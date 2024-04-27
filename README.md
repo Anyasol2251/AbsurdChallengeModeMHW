@@ -67,6 +67,7 @@ Note: This will not impact hyperarmor, you will still be able to hyperarmor thro
 
 ### Defender Equipment ###
 - All defender weapons have had their raw reduced to zero, and all defender armor has had its defense reduced to zero.
+- 
 Go out and make some real equipment like Tokuda intended. Please enjoy.
 
 - - - -
