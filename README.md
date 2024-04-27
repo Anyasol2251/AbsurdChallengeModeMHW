@@ -21,8 +21,7 @@ It'll make the uninstallation process much easier, as you'll just have to rename
 Otherwise, uninstallation will involve deleting the individual folders/files added by the mod. You can consult the folder structure on this github page for reference on what you need to delete.
 
 I also *highly* recommend [Cutscene Skip](https://www.nexusmods.com/monsterhunterworld/mods/5540), as this mod is designed for a new playthrough.
-However, at present it seems like there may be conflicts between that plugin and SPL so if you run into crashes when attempting to skip cutscenes, you'll just have to make do without cutscene skip.
-Very unfortunate, but currently there's nothing that can be done.
+However, at present it seems like there may be conflicts between that plugin and Sharp Plugin Loader, so you may run into crashes when attempting to skip cutscenes. If that happens, try switching your game to be fullscreen & native resolution (your monitor's resolution), that consistently got rid of crashes for me. Otherwise you'll just have to make do without it, my apologies.
 
 - - - -
 
@@ -67,7 +66,7 @@ Note: This will not impact hyperarmor, you will still be able to hyperarmor thro
 
 ### Defender Equipment ###
 - All defender weapons have had their raw reduced to zero, and all defender armor has had its defense reduced to zero.
-- 
+
 Go out and make some real equipment like Tokuda intended. Please enjoy.
 
 - - - -
