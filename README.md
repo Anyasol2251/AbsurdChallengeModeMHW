@@ -32,7 +32,7 @@ There'll be a more detailed list of changes at the end, but I recommend just jum
 ### Weapon Movesets and Values ###
 - (Almost) All weapons have been *nerfed* in some capacity through changes to their movesets or motion values.
 
-The same tactics you use in vanilla may no longer work here!
+Try everything out in the training room. The same tactics you use in vanilla may no longer work here!
 
 ### Bowgun Defense ###
 - Rather than modify bowgun movesets, their defense modifier has simply been reduced to zero.
