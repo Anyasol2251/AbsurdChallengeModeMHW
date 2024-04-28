@@ -45,6 +45,9 @@ Perhaps the core of this mod: Almost *every* required monster has changes **uniq
 - Certain monsters may now perform different attacks or attack combos, some may have their speed, damage, size, or shape changed (possibly mid-fight!),
 and in many cases the speed of *certain attacks* is changed, so watch out!
 
+*Note: Due to the way some changes are implemented, it is recommended to avoid doing quests that have more than one of the same monster on the map at the same time.*
+*This only applies to the following monsters: Great Jagras, Kulu-Ya-Ku, Legiana, Odogaron, Ebony Odogaron, Diablos, Nargacuga, Glavenus, Tigrex, Shrieking Legiana, and Rajang. Everything else is okay.*
+
 ### Decoration Drop Rates ###
 - Decoration drop rates have been... changed. For the worse. You'll understand what I mean when you get there.
 
@@ -120,6 +123,7 @@ Hope you don't have too much muscle memory on your favorite weapon!
   - Wyrmstake Blast removed.
 - Switch Axe
   - Clutch claw zero sum discharge removed.
+  - Zero sum discharge ticks now consume sharpness.
 - Charge Blade
   - Savage Axe removed.
 - Insect Glaive
@@ -130,6 +134,7 @@ Hope you don't have too much muscle memory on your favorite weapon!
   - Charging sidestep iframes increased to about the same as SnS backhops.
 - Heavy Bowgun
   - Defense modifier reduced to zero.
+  - Shield effectiveness reduced (All levels are equal to level 1).
 - Light Bowgun
   - Defense modifier reduced to zero.
 
@@ -206,6 +211,7 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
   - Fireball attacks sped up
   - Homing claw attack sped up
 - Diablos
+  - Certain attacks sped up
   - Charge attack sped up
   - Now consistently charges after a roar
     - The post-roar charge attack is slowed down
