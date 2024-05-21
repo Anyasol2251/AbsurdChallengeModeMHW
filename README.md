@@ -270,6 +270,8 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
 - Brachydios
   - Randomly speeds up or slows down on every action
 - Shrieking Legiana
+  - Certain attacks sped up
+  - Added new combos
 - Fulgar Anjanath
   - Achieves lightning mode much faster.
   - Requires multiple topples to be forced out of lightning mode
