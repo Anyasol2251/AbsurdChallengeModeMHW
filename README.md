@@ -273,7 +273,8 @@ Note: "Actions" refer to the monster doing anything, not just attacks.
   - Certain attacks sped up
   - Added new combos
 - Fulgar Anjanath
-  - Achieves lightning mode much faster.
+  - Achieves lightning mode much faster
+  - No longer exits lightning mode on its own
   - Requires multiple topples to be forced out of lightning mode
   - Head hitzone slightly nerfed.
 - Acidic Glavenus
